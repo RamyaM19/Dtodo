@@ -1,0 +1,15 @@
+<!DOCTYPE RCC><RCC version="1.0">
+	<qresource>
+		<file>images/icone.png</file>
+		<file>images/do.png</file>
+		<file>images/nouveau.png</file>
+		<file>images/preferences.png</file>
+		<file>images/quitter.png</file>
+		<file>images/supprimer.png</file>
+		<file>images/voir.png</file>
+		<file>images/alarme.png</file>
+		<file>images/modif.png</file>
+		<file>images/maj.png</file>
+		<file>images/qt.png</file>
+	</qresource>
+</RCC>
